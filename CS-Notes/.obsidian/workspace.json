@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4662f56dad2310c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8ecfa67452cd83d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "switch语句的简化方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "734f44d61831ec28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "switch语句的简化方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "switch语句的简化方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "switch语句的简化方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "switch语句的简化方法.md"
               }
             }
           }
@@ -149,8 +185,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9ecf41a6202a0d4",
+  "active": "734f44d61831ec28",
   "lastOpenFiles": [
+    "switch语句的新写法.md",
+    "Java.md",
+    "switch语句的简化方法.md",
     "Home Page.md",
     "解决连接GitHub的问题.md"
   ]
